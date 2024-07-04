@@ -6,7 +6,7 @@ I'm a penguin lover and passionate Software Engineer with experience in .NET. I 
 
 - 🌍 Languages: English, Chinese, Malay
 - 📫 How to reach me: kevintan7227@gmail.com
-- 🔭 Working on: [Cheque Writer Application](http://github.com/kevinboon3288/cheque-writer)
+- 🔭 Working on: [Version Controller](https://github.com/kevinboon3288/version-controller)
 
 ## My Skills 🧠
 
